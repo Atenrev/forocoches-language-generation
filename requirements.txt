@@ -1,0 +1,4 @@
+pytorch
+transformers
+numpy
+tqdm
