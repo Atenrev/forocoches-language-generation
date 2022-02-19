@@ -2,7 +2,7 @@
 ## Description
 This is a PyTorch implementation of a decoder only transformer inspired on GPT-2. 
 
-The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/). **At the moment, this dataset is not be publicly available.** An article will come with it.
+The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/). **At the moment, this dataset is not publicly available.** An article will come with it.
 
 ***WARNING***: The dataset used to train the model contains bad language and offensive content. Therefore, it is likely that the model will generate offensive predictions. **Use it at your own risk.**
 
