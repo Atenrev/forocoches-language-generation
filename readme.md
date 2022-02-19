@@ -77,10 +77,10 @@ optional arguments:
 
 The script will print the results in the console. It will also save them in a ```prediction.txt``` file as well.
 
-Note that there exist several tags that you can use when prompting the model. Usually, the model will work best when you input the *<|THREAD|>* at the beginning and follow the thread structure.
+Note that there exist several tags that you can use when prompting the model. Usually, the model will work best when you input the *<|THREAD|>* tag at the beginning and follow the thread structure.
 
 ### Example
-Output prediction from executing ```inference.py --prompt "<|THREAD|>"```:
+Output prediction from executing ```python inference.py --prompt "<|THREAD|>"```:
 
 ```
 donde se puede ver el éxito de pablo casado?
