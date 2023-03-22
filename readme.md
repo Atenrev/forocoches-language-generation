@@ -2,7 +2,7 @@
 ## Description
 This is a PyTorch implementation of a decoder only transformer inspired on GPT-2. 
 
-The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/). **At the moment, this dataset is not publicly available.** An article will come with it.
+The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/). **At the moment, this dataset is not publicly available.**
 
 ***WARNING***: The dataset used to train the model contains bad language and offensive content. Therefore, it is likely that the model will generate offensive predictions. **Use it at your own risk.**
 
@@ -28,8 +28,8 @@ The dataset used to train the provided model consists of raw threads scraped fro
 However, you can use your own dataset by modifying the ```dataset.py``` script.
 
 ### 3. Download the model
-* Download the pre-trained model from here: https://drive.google.com/file/d/1a9_5BhS-vP4SX4Wj2LxXcqb2YR2MKKGg/view?usp=sharing. Place it in the ```models``` folder.
-* Download the pre-trained tokenizer from here: https://drive.google.com/file/d/1rorJMCcP72FsgR5w3fl6wNunhsKG4IQY/view?usp=sharing. Extract it into the ```models``` folder.
+* Download the pre-trained model from here: https://mega.nz/file/vQwACaTb#A2uCj25MktueY3rw0JmlLAgW2_c0sZYzpmxjm-O1i9w. Place it in the ```models``` folder.
+* Download the pre-trained tokenizer from here: https://mega.nz/file/2VgSEIDL#Ryf6pDg6KM3osL87mMvKVu9TiOwJq4l2T96rw6IObpQ. Extract it into the ```models``` folder.
 
 Here is an example of what the root should look like:
 ```
