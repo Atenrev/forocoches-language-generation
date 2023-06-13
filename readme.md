@@ -104,7 +104,7 @@ If you use this software, the model or the dataset used in the training of the m
     author = {Masip Cabeza, Sergi},
     doi = {10.5281/zenodo.8034377},
     month = jun,
-    title = {{Forocoches Language Generation Dataset}},
+    title = {Forocoches Language Generation Dataset},
     url = {https://github.com/Atenrev/forocoches-language-generation},
     version = {1.0.0},
     year = {2023}
