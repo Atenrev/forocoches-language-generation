@@ -99,3 +99,14 @@ lo que ha hecho el resto, es el resultado.
 
 ## Reference
 If you use this software, the model or the dataset used in the training of the model, please cite it as below.
+```
+@software{Masip_Cabeza_Forocoches_Language_Generation_2023,
+    author = {Masip Cabeza, Sergi},
+    doi = {10.5281/zenodo.8034377},
+    month = jun,
+    title = {{Forocoches Language Generation Dataset}},
+    url = {https://github.com/Atenrev/forocoches-language-generation},
+    version = {1.0.0},
+    year = {2023}
+}
+```
