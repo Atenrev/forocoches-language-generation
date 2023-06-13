@@ -2,7 +2,7 @@
 ## Description
 This is a PyTorch implementation of a decoder only transformer inspired on GPT-2. 
 
-The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/). **At the moment, this dataset is not publicly available.**
+The model was trained from scratch on a custom dataset of over 1 million threads from the Spanish forum [ForoCoches](https://www.forocoches.com/).
 
 ***WARNING***: The dataset used to train the model contains bad language and offensive content. Therefore, it is likely that the model will generate offensive predictions. **Use it at your own risk.**
 
@@ -23,7 +23,7 @@ cd forocoches-language-generation
 ```
 
 ### 2. Data
-The dataset used to train the provided model consists of raw threads scraped from the whole website. It has been processed, formatted and lowercased. It is not publicly available for now.
+The dataset used to train the provided model consists of raw threads scraped from the whole website. It has been processed, formatted and lowercased. You can download it [here](https://drive.google.com/file/d/1dVYjHFCrC8t3eS3l2xX1aHNuIYUynSqo/view?usp=sharing).
 
 However, you can use your own dataset by modifying the ```dataset.py``` script.
 
@@ -96,3 +96,6 @@ showthread.php?p=331273493#post331273493
 https://static2.elcomercio.es/www/multimedia/201904/27/media/cortadas/casado-iglesias-khgf-u701106542958jfd-624x385@el%20comercio.jpg
 lo que ha hecho el resto, es el resultado.
 ```
+
+## Reference
+If you use this software, the model or the dataset used in the training of the model, please cite it as below.
