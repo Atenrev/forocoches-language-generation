@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, the model or the dataset used in the training of the model, please cite it as below."
+authors:
+- family-names: "Masip Cabeza"
+  given-names: "Sergi"
+  orcid: "https://orcid.org/0000-0001-8086-2687"
+title: "Forocoches Language Generation Dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.8034377
+date-released: 2023-06-13
+url: "https://github.com/Atenrev/forocoches-language-generation"
